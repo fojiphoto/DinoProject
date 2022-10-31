@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -304,6 +305,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      HUD_WeaponIcons_Melee: 21300000
+      HUD_WeaponIcons_AssaultRifle: 21300008
+      HUD_WeaponIcons_HandGrenade: 21300014
+      HUD_WeaponIcons_GrenadeLauncher: 21300012
+      HUD_WeaponIcons_SniperRifle: 21300010
+      HUD_WeaponIcons_Pistol: 21300002
+      HUD_WeaponIcons_Shotgun: 21300006
+      HUD_WeaponIcons_Revolver: 21300004
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
