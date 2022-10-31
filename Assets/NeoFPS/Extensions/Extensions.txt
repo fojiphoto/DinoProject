@@ -1,0 +1,34 @@
+The following extension packages exist to extend NeoFPS with optional functionality using Unity packages
+
+CINEMACHINE
+- Adds a cinemachine first person camera, alomg with a demo character, spawner and scene
+- Install the latest cinemachine package from the package manager before extracting the extension package file
+- To use (outside the demos):
+  - Find the camera object in your character's hierarchy
+  - Remove the camera component, along with the audio listener, post processing fix and any camera effects such as flare layers
+  - Add a CinemachineVirtualCamera component and set the priority high enough to be the primary camera
+  - Find the object with the StandardFirstPersonCamera component (usually the parent of the camera object)
+  - Replace the StandardFirstPersonCamera component with a CinemachineFirstPersonCamera component, duplicating the settings and pointing it at the new virtual camera
+  - Add the CinemachineCameraController to your scene, or use your own camera setup with a Cinemachine brain
+  - Works best with the "Cut" default transition type to prevent issues with camera blending on character spawn
+
+INPUT SYSTEM
+- Adds alternative versions of each of the NeoFPS input handlers and the input manager which use the input system instead of old input manager
+- Requires Unity 2019.4 LTS or above
+- Before extracting the package, make sure that the "Active Input Handling" property in the Player Settings/Other Settings section is set to "Both"
+- Import the Input System package version 1.1.1 or higher in the package manager (you might need to enable experimental packages depending on your editor version)
+- Once the package is extracted find the old input manager at NeoFPS/Resources/FpsManager_Input, and move it out of the Resources folder
+- To use:
+  - Replace all input handler components (InputFirearm, InputInventory, InputCharacterMotion, etc) on your weapons, characters and other prefabs with the equivalent input system versions (InputSystemFirearm, InputSystemInventory, InputSystemCharacterMotion, etc).
+  - Open your menu prefabs (eg InGameMenu and MainMenu) and under the "Panels" object delete the "OptionsPanel_Bindings" object
+  - Replace that object with the "OptionsPanel_InputSystemBindings" from the NeoFPS/Extensions/InputSystem/SampleUI folder
+  - In the menu hierarchy, expand "MenuObject/NavControls/NavControls_Options" and select the "Button_Bindings" object
+  - In the "Multi Input Button" component, in the "On Click()` event, drag the new "OptionsPanel_InputSystemBindings" object onto the parameter that currently says "None (Menu Panel)"
+- NOTE: You will need to close and re-open the NeoFPS hub if you had it open before importing the package. Without doing this, the "Managers" section will still show the old input manager.
+- TIPS: The following objects will have an input handler (each one has a replacement):
+  - The root object of any weapon or tool (InputFirearm, InputMeleeWeapon, InputThrownWeapon, InputWieldableTool)
+  - The root of the character (InputCharacterMotion, InputInventory, InputCharacterSlowMo, etc)
+  - The player prefab (InputGame)
+  - Ability weapon prefabs (InputAbilityWeapon)
+  - Custom UI menus, not including the demo UIs (InputMenu)
+  - Lockpick UI prefabs (InputLockpick)

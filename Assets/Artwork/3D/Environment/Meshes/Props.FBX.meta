@@ -1,0 +1,901 @@
+fileFormatVersion: 2
+guid: 2df1ba3ba380cc945ab1502fb5f0efce
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ' Bags Green single'
+  - first:
+      1: 100002
+    second: ' Bags Red'
+  - first:
+      1: 100004
+    second: ' Bags Red Signle'
+  - first:
+      1: 100006
+    second: Army Jeep A
+  - first:
+      1: 100008
+    second: Army Jeep B
+  - first:
+      1: 100010
+    second: Bags Green
+  - first:
+      1: 100012
+    second: Bar_A
+  - first:
+      1: 100014
+    second: Bar_B
+  - first:
+      1: 100016
+    second: bed plate
+  - first:
+      1: 100018
+    second: border wire
+  - first:
+      1: 100020
+    second: Box Wall
+  - first:
+      1: 100022
+    second: Broken Roak Block
+  - first:
+      1: 100024
+    second: 'Caton '
+  - first:
+      1: 100026
+    second: 'Contain Open '
+  - first:
+      1: 100028
+    second: 'Container_A '
+  - first:
+      1: 100030
+    second: Drum_A
+  - first:
+      1: 100032
+    second: Drum_B
+  - first:
+      1: 100034
+    second: Electricity Box
+  - first:
+      1: 100036
+    second: Grass_A
+  - first:
+      1: 100038
+    second: Grass_B
+  - first:
+      1: 100040
+    second: Huge 2 Drum
+  - first:
+      1: 100042
+    second: Huge 4 drum
+  - first:
+      1: 100044
+    second: Huge crate
+  - first:
+      1: 100046
+    second: 'iropn Gardon '
+  - first:
+      1: 100048
+    second: Lader
+  - first:
+      1: 100050
+    second: mud box
+  - first:
+      1: 100052
+    second: Plane
+  - first:
+      1: 100054
+    second: //RootNode
+  - first:
+      1: 100056
+    second: Road_block
+  - first:
+      1: 100058
+    second: Sand
+  - first:
+      1: 100060
+    second: Single green box
+  - first:
+      1: 100062
+    second: Single green box006
+  - first:
+      1: 100064
+    second: 'Tele tower '
+  - first:
+      1: 100066
+    second: tire
+  - first:
+      1: 100068
+    second: Tower A
+  - first:
+      1: 100070
+    second: Tree_A
+  - first:
+      1: 100072
+    second: Tree_B
+  - first:
+      1: 100074
+    second: Tree_C
+  - first:
+      1: 100076
+    second: Water_Tank
+  - first:
+      1: 100078
+    second: Wire Roll
+  - first:
+      1: 100080
+    second: Wire Roll with Plate
+  - first:
+      1: 100082
+    second: Wood Plank
+  - first:
+      1: 100084
+    second: Wooden Box
+  - first:
+      1: 100086
+    second: Wooden_Tower
+  - first:
+      4: 400000
+    second: ' Bags Green single'
+  - first:
+      4: 400002
+    second: ' Bags Red'
+  - first:
+      4: 400004
+    second: ' Bags Red Signle'
+  - first:
+      4: 400006
+    second: Army Jeep A
+  - first:
+      4: 400008
+    second: Army Jeep B
+  - first:
+      4: 400010
+    second: Bags Green
+  - first:
+      4: 400012
+    second: Bar_A
+  - first:
+      4: 400014
+    second: Bar_B
+  - first:
+      4: 400016
+    second: bed plate
+  - first:
+      4: 400018
+    second: border wire
+  - first:
+      4: 400020
+    second: Box Wall
+  - first:
+      4: 400022
+    second: Broken Roak Block
+  - first:
+      4: 400024
+    second: 'Caton '
+  - first:
+      4: 400026
+    second: 'Contain Open '
+  - first:
+      4: 400028
+    second: 'Container_A '
+  - first:
+      4: 400030
+    second: Drum_A
+  - first:
+      4: 400032
+    second: Drum_B
+  - first:
+      4: 400034
+    second: Electricity Box
+  - first:
+      4: 400036
+    second: Grass_A
+  - first:
+      4: 400038
+    second: Grass_B
+  - first:
+      4: 400040
+    second: Huge 2 Drum
+  - first:
+      4: 400042
+    second: Huge 4 drum
+  - first:
+      4: 400044
+    second: Huge crate
+  - first:
+      4: 400046
+    second: 'iropn Gardon '
+  - first:
+      4: 400048
+    second: Lader
+  - first:
+      4: 400050
+    second: mud box
+  - first:
+      4: 400052
+    second: Plane
+  - first:
+      4: 400054
+    second: //RootNode
+  - first:
+      4: 400056
+    second: Road_block
+  - first:
+      4: 400058
+    second: Sand
+  - first:
+      4: 400060
+    second: Single green box
+  - first:
+      4: 400062
+    second: Single green box006
+  - first:
+      4: 400064
+    second: 'Tele tower '
+  - first:
+      4: 400066
+    second: tire
+  - first:
+      4: 400068
+    second: Tower A
+  - first:
+      4: 400070
+    second: Tree_A
+  - first:
+      4: 400072
+    second: Tree_B
+  - first:
+      4: 400074
+    second: Tree_C
+  - first:
+      4: 400076
+    second: Water_Tank
+  - first:
+      4: 400078
+    second: Wire Roll
+  - first:
+      4: 400080
+    second: Wire Roll with Plate
+  - first:
+      4: 400082
+    second: Wood Plank
+  - first:
+      4: 400084
+    second: Wooden Box
+  - first:
+      4: 400086
+    second: Wooden_Tower
+  - first:
+      21: 2100000
+    second: Props Atlas A
+  - first:
+      21: 2100002
+    second: Props Atlas B
+  - first:
+      21: 2100004
+    second: Fence Wire
+  - first:
+      23: 2300000
+    second: ' Bags Green single'
+  - first:
+      23: 2300002
+    second: ' Bags Red'
+  - first:
+      23: 2300004
+    second: ' Bags Red Signle'
+  - first:
+      23: 2300006
+    second: Army Jeep A
+  - first:
+      23: 2300008
+    second: Army Jeep B
+  - first:
+      23: 2300010
+    second: Bags Green
+  - first:
+      23: 2300012
+    second: Bar_A
+  - first:
+      23: 2300014
+    second: Bar_B
+  - first:
+      23: 2300016
+    second: bed plate
+  - first:
+      23: 2300018
+    second: border wire
+  - first:
+      23: 2300020
+    second: Box Wall
+  - first:
+      23: 2300022
+    second: Broken Roak Block
+  - first:
+      23: 2300024
+    second: 'Caton '
+  - first:
+      23: 2300026
+    second: 'Contain Open '
+  - first:
+      23: 2300028
+    second: 'Container_A '
+  - first:
+      23: 2300030
+    second: Drum_A
+  - first:
+      23: 2300032
+    second: Drum_B
+  - first:
+      23: 2300034
+    second: Electricity Box
+  - first:
+      23: 2300036
+    second: Grass_A
+  - first:
+      23: 2300038
+    second: Grass_B
+  - first:
+      23: 2300040
+    second: Huge 2 Drum
+  - first:
+      23: 2300042
+    second: Huge 4 drum
+  - first:
+      23: 2300044
+    second: Huge crate
+  - first:
+      23: 2300046
+    second: 'iropn Gardon '
+  - first:
+      23: 2300048
+    second: Lader
+  - first:
+      23: 2300050
+    second: mud box
+  - first:
+      23: 2300052
+    second: Plane
+  - first:
+      23: 2300054
+    second: Road_block
+  - first:
+      23: 2300056
+    second: Sand
+  - first:
+      23: 2300058
+    second: Single green box
+  - first:
+      23: 2300060
+    second: Single green box006
+  - first:
+      23: 2300062
+    second: 'Tele tower '
+  - first:
+      23: 2300064
+    second: tire
+  - first:
+      23: 2300066
+    second: Tower A
+  - first:
+      23: 2300068
+    second: Tree_A
+  - first:
+      23: 2300070
+    second: Tree_B
+  - first:
+      23: 2300072
+    second: Tree_C
+  - first:
+      23: 2300074
+    second: Water_Tank
+  - first:
+      23: 2300076
+    second: Wire Roll
+  - first:
+      23: 2300078
+    second: Wire Roll with Plate
+  - first:
+      23: 2300080
+    second: Wood Plank
+  - first:
+      23: 2300082
+    second: Wooden Box
+  - first:
+      23: 2300084
+    second: Wooden_Tower
+  - first:
+      33: 3300000
+    second: ' Bags Green single'
+  - first:
+      33: 3300002
+    second: ' Bags Red'
+  - first:
+      33: 3300004
+    second: ' Bags Red Signle'
+  - first:
+      33: 3300006
+    second: Army Jeep A
+  - first:
+      33: 3300008
+    second: Army Jeep B
+  - first:
+      33: 3300010
+    second: Bags Green
+  - first:
+      33: 3300012
+    second: Bar_A
+  - first:
+      33: 3300014
+    second: Bar_B
+  - first:
+      33: 3300016
+    second: bed plate
+  - first:
+      33: 3300018
+    second: border wire
+  - first:
+      33: 3300020
+    second: Box Wall
+  - first:
+      33: 3300022
+    second: Broken Roak Block
+  - first:
+      33: 3300024
+    second: 'Caton '
+  - first:
+      33: 3300026
+    second: 'Contain Open '
+  - first:
+      33: 3300028
+    second: 'Container_A '
+  - first:
+      33: 3300030
+    second: Drum_A
+  - first:
+      33: 3300032
+    second: Drum_B
+  - first:
+      33: 3300034
+    second: Electricity Box
+  - first:
+      33: 3300036
+    second: Grass_A
+  - first:
+      33: 3300038
+    second: Grass_B
+  - first:
+      33: 3300040
+    second: Huge 2 Drum
+  - first:
+      33: 3300042
+    second: Huge 4 drum
+  - first:
+      33: 3300044
+    second: Huge crate
+  - first:
+      33: 3300046
+    second: 'iropn Gardon '
+  - first:
+      33: 3300048
+    second: Lader
+  - first:
+      33: 3300050
+    second: mud box
+  - first:
+      33: 3300052
+    second: Plane
+  - first:
+      33: 3300054
+    second: Road_block
+  - first:
+      33: 3300056
+    second: Sand
+  - first:
+      33: 3300058
+    second: Single green box
+  - first:
+      33: 3300060
+    second: Single green box006
+  - first:
+      33: 3300062
+    second: 'Tele tower '
+  - first:
+      33: 3300064
+    second: tire
+  - first:
+      33: 3300066
+    second: Tower A
+  - first:
+      33: 3300068
+    second: Tree_A
+  - first:
+      33: 3300070
+    second: Tree_B
+  - first:
+      33: 3300072
+    second: Tree_C
+  - first:
+      33: 3300074
+    second: Water_Tank
+  - first:
+      33: 3300076
+    second: Wire Roll
+  - first:
+      33: 3300078
+    second: Wire Roll with Plate
+  - first:
+      33: 3300080
+    second: Wood Plank
+  - first:
+      33: 3300082
+    second: Wooden Box
+  - first:
+      33: 3300084
+    second: Wooden_Tower
+  - first:
+      43: 4300000
+    second: bed plate
+  - first:
+      43: 4300002
+    second: mud box
+  - first:
+      43: 4300004
+    second: Wire Roll
+  - first:
+      43: 4300006
+    second: Sand
+  - first:
+      43: 4300008
+    second: tire
+  - first:
+      43: 4300010
+    second: Electricity Box
+  - first:
+      43: 4300012
+    second: border wire
+  - first:
+      43: 4300014
+    second: Wooden Box
+  - first:
+      43: 4300016
+    second: 'Caton '
+  - first:
+      43: 4300018
+    second: Road_block
+  - first:
+      43: 4300020
+    second: ' Bags Red'
+  - first:
+      43: 4300022
+    second: Bags Green
+  - first:
+      43: 4300024
+    second: ' Bags Red Signle'
+  - first:
+      43: 4300026
+    second: ' Bags Green single'
+  - first:
+      43: 4300028
+    second: Bar_A
+  - first:
+      43: 4300030
+    second: Bar_B
+  - first:
+      43: 4300032
+    second: 'Container_A '
+  - first:
+      43: 4300034
+    second: 'Contain Open '
+  - first:
+      43: 4300036
+    second: 'Tele tower '
+  - first:
+      43: 4300038
+    second: 'iropn Gardon '
+  - first:
+      43: 4300040
+    second: Huge 2 Drum
+  - first:
+      43: 4300042
+    second: Drum_B
+  - first:
+      43: 4300044
+    second: Drum_A
+  - first:
+      43: 4300046
+    second: Huge 4 drum
+  - first:
+      43: 4300048
+    second: Huge crate
+  - first:
+      43: 4300050
+    second: Box Wall
+  - first:
+      43: 4300052
+    second: Lader
+  - first:
+      43: 4300054
+    second: Single green box
+  - first:
+      43: 4300056
+    second: Tree_C
+  - first:
+      43: 4300058
+    second: Broken Roak Block
+  - first:
+      43: 4300060
+    second: Tree_B
+  - first:
+      43: 4300062
+    second: Tree_A
+  - first:
+      43: 4300064
+    second: Grass_A
+  - first:
+      43: 4300066
+    second: Grass_B
+  - first:
+      43: 4300068
+    second: Wood Plank
+  - first:
+      43: 4300070
+    second: Single green box006
+  - first:
+      43: 4300072
+    second: Wire Roll with Plate
+  - first:
+      43: 4300074
+    second: Water_Tank
+  - first:
+      43: 4300076
+    second: Tower A
+  - first:
+      43: 4300078
+    second: Army Jeep A
+  - first:
+      43: 4300080
+    second: Army Jeep B
+  - first:
+      43: 4300082
+    second: Plane
+  - first:
+      43: 4300084
+    second: Wooden_Tower
+  - first:
+      64: 6400000
+    second: ' Bags Green single'
+  - first:
+      64: 6400002
+    second: ' Bags Red'
+  - first:
+      64: 6400004
+    second: ' Bags Red Signle'
+  - first:
+      64: 6400006
+    second: Army Jeep A
+  - first:
+      64: 6400008
+    second: Army Jeep B
+  - first:
+      64: 6400010
+    second: Bags Green
+  - first:
+      64: 6400012
+    second: Bar_A
+  - first:
+      64: 6400014
+    second: Bar_B
+  - first:
+      64: 6400016
+    second: bed plate
+  - first:
+      64: 6400018
+    second: border wire
+  - first:
+      64: 6400020
+    second: Box Wall
+  - first:
+      64: 6400022
+    second: Broken Roak Block
+  - first:
+      64: 6400024
+    second: 'Caton '
+  - first:
+      64: 6400026
+    second: 'Contain Open '
+  - first:
+      64: 6400028
+    second: 'Container_A '
+  - first:
+      64: 6400030
+    second: Drum_A
+  - first:
+      64: 6400032
+    second: Drum_B
+  - first:
+      64: 6400034
+    second: Electricity Box
+  - first:
+      64: 6400036
+    second: Grass_A
+  - first:
+      64: 6400038
+    second: Grass_B
+  - first:
+      64: 6400040
+    second: Huge 2 Drum
+  - first:
+      64: 6400042
+    second: Huge 4 drum
+  - first:
+      64: 6400044
+    second: Huge crate
+  - first:
+      64: 6400046
+    second: 'iropn Gardon '
+  - first:
+      64: 6400048
+    second: Lader
+  - first:
+      64: 6400050
+    second: mud box
+  - first:
+      64: 6400052
+    second: Plane
+  - first:
+      64: 6400054
+    second: Road_block
+  - first:
+      64: 6400056
+    second: Sand
+  - first:
+      64: 6400058
+    second: Single green box
+  - first:
+      64: 6400060
+    second: Single green box006
+  - first:
+      64: 6400062
+    second: 'Tele tower '
+  - first:
+      64: 6400064
+    second: tire
+  - first:
+      64: 6400066
+    second: Tower A
+  - first:
+      64: 6400068
+    second: Tree_A
+  - first:
+      64: 6400070
+    second: Tree_B
+  - first:
+      64: 6400072
+    second: Tree_C
+  - first:
+      64: 6400074
+    second: Water_Tank
+  - first:
+      64: 6400076
+    second: Wire Roll
+  - first:
+      64: 6400078
+    second: Wire Roll with Plate
+  - first:
+      64: 6400080
+    second: Wood Plank
+  - first:
+      64: 6400082
+    second: Wooden Box
+  - first:
+      64: 6400084
+    second: Wooden_Tower
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence Wire
+    second: {fileID: 2100000, guid: 3e0f7391c08a5204ca00818bf8084df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props Atlas A
+    second: {fileID: 2100000, guid: bfb51316a730250459fd96a60cbafd18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props Atlas B
+    second: {fileID: 2100000, guid: f877408c6f45fcb408f10d1315d24aba, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
